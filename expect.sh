@@ -44,4 +44,4 @@ done
 #To execute:
 
 bash
-./file.sh hosts-file commands-file
+./expect.sh hosts-file.txt commands-file.txt
