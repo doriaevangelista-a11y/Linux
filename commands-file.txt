@@ -1,0 +1,3 @@
+show ip inter br
+show interface status
+show vlan
