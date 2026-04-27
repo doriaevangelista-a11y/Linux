@@ -4,6 +4,7 @@
 # the changes described in the script.
 # You must specify the file where the hosts are listed and another file with the commands, in front of the script.
 # Example: script.sh hosts.txt commands.txt
+# You must have the expect packet installed your machine
 
 # START
 
